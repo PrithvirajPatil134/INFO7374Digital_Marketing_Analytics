@@ -36,11 +36,12 @@
 • Analysis Power BI : https://app.powerbi.com/groups/me/reports/aff843c7-d681-4d2d-8647-77c1a54244f5?ctid=6abfc73f-da64-4137-9f9f-15faae56f685
 • Clat Document : https://codelabs-preview.appspot.com/?file_id=1IwvbmM0fHPVk2k8ob-9Y6tMNKFJ_z1RMZMzFlDrkMuM#0
 • Data :
-	• https://github.com/KumarAnand11/INFO7374DigitalMarketingAnalytics/blob/master/Final%20Project%20Team%205/data/Input/Car_sales.csv
+	• https://github.com/PrithvirajPatil134/INFO7374Digital_Marketing_Analytics/blob/master/Final%20Project%20Team%205/data/Input/Car_sales.csv
 
-	• https://github.com/KumarAnand11/INFO7374DigitalMarketingAnalytics/blob/master/Final%20Project%20Team%205/data/Input/OnlineRetail.csv
+	• https://github.com/PrithvirajPatil134/INFO7374Digital_Marketing_Analytics/blob/master/Final%20Project%20Team%205/data/Input/OnlineRetail.csv
 
-	• https://github.com/KumarAnand11/INFO7374DigitalMarketingAnalytics/blob/master/Final%20Project%20Team%205/data/Output/Main.csv
+	• https://github.com/PrithvirajPatil134/INFO7374Digital_Marketing_Analytics/blob/master/Final%20Project%20Team%205/data/Output/Main.csv
+	• https://github.com/PrithvirajPatil134/INFO7374Digital_Marketing_Analytics/blob/master/Final%20Project%20Team%205/data/Output/User_Details.csv
 
 
  
